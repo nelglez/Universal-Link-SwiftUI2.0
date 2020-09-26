@@ -21,8 +21,8 @@ Then you can go ahead an validate it using this website:
 [aasa-validator](https://branch.io/resources/aasa-validator/)
 if it passes validation, then you are set!
 
-[Visiting our website in safari](https://github.com/nelglez/Universal-Link-SwiftUI2.0/tree/main/Universal%20Link%20Tutorial/4.png)
+![Visiting our website in safari](https://github.com/nelglez/Universal-Link-SwiftUI2.0/tree/main/Universal%20Link%20Tutorial/4.png)
 
-[After we click on OPEN from safari](https://github.com/nelglez/Universal-Link-SwiftUI2.0/tree/main/Universal%20Link%20Tutorial/4.png)
+![After we click on OPEN from safari](https://github.com/nelglez/Universal-Link-SwiftUI2.0/tree/main/Universal%20Link%20Tutorial/4.png)
 
 
