@@ -1,6 +1,8 @@
 # Universal-Link-SwiftUI2.0
 Simple project that demonstrates univeral links in SwiftUI 2.0. In this project we open a specific page in our app after we view a website url in safari.
 
+If you find this project useful please give it a star. You can also donate using PayPal. My PayPal email is ngftlaudhosp@yahoo.com 
+
 The url we are going to be working with is https://ultimate-teenchat.com this is just an old domain I bought years ago to play around with chat rooms. 
 
 You will need a hosting provider, and a website domain. Your site should be live.
